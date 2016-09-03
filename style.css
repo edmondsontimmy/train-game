@@ -1,0 +1,8 @@
+body{
+	background: url(http://vignette1.wikia.nocookie.net/lab-rats-bionic/images/1/17/Train-Station-Background-Picture.jpg/revision/latest?cb=20150627233302);
+	background-size: cover;
+}
+.jumbotron{
+	background: #337ab7;
+	color: white;
+}
